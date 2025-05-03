@@ -23,7 +23,7 @@ Este é um projeto de aprendizado desenvolvido durante as aulas da Alura. Trata-
 
 ## Visualização
 
-
+https://alura-books-seven-vert.vercel.app
 
 ## Aprendizados
 
